@@ -1,0 +1,43 @@
+body{
+    text_align:center;
+}
+nav ul li{
+    display:inline;
+}
+nav ul li a{
+    text decoration:none;
+    padding:15px;
+    color:burlywood;
+}
+header{
+    background-color:black;
+    padding:20px;
+}
+header h1{
+    color:aliceblue;
+}
+#home img{
+    height:180px;
+    width:180px;
+    border-radius: 50%;
+}
+#home p{
+    word spacing:10px;
+}
+#portfolio{
+    background-color: antiquewhite;
+}
+#skills ul li{
+    display:inline;
+    padding:10px;
+}
+footer{
+    background-color: black;
+    padding:20px;
+}
+footer{
+    color: aliceblue;
+}
+footer{
+    text-align: center;
+}
